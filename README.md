@@ -21,7 +21,8 @@ HHA 504 Week 4 Assignment
 5. Click on create instane and click on MySQl on the popoup.
 6. The following options should be selected on the page, MySQL8.0 under database version, Enterprise under Cloud SQL Edition, Sandbox under preset for this edition, and a shared core with 1vCPU/.614gb RAM selected. Public IP addresses should be enables and add a authorized network with the name as AllowAll and the IP address should be set to 0.0.0.0/0
 7. Click create
-8. Connect MySQLWorkbench to GCP 
+8. Connect MySQLWorkbench to GCP
+* These steps were followed during lecture with Professor Williams
 
 ## My experience with MySQL Workbench
 My experience with MySQL Workbench was fairly easy as Professer Williams went over the necessary steps in class. I used the code copied here https://github.com/jward6301/mysql_cloudmanaged_databases/blob/main/sql.sql in MySQL Workbench. The tables and code were the same for both GCP and Azure. 
